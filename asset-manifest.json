@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aarogyacard/static/css/main.93624daa.chunk.css",
+    "main.js": "/aarogyacard/static/js/main.91964ffc.chunk.js",
+    "main.js.map": "/aarogyacard/static/js/main.91964ffc.chunk.js.map",
+    "runtime-main.js": "/aarogyacard/static/js/runtime-main.bcd05b6e.js",
+    "runtime-main.js.map": "/aarogyacard/static/js/runtime-main.bcd05b6e.js.map",
+    "static/css/2.150d169a.chunk.css": "/aarogyacard/static/css/2.150d169a.chunk.css",
+    "static/js/2.c36cb36d.chunk.js": "/aarogyacard/static/js/2.c36cb36d.chunk.js",
+    "static/js/2.c36cb36d.chunk.js.map": "/aarogyacard/static/js/2.c36cb36d.chunk.js.map",
+    "index.html": "/aarogyacard/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/aarogyacard/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.93624daa.chunk.css.map": "/aarogyacard/static/css/main.93624daa.chunk.css.map",
+    "static/js/2.c36cb36d.chunk.js.LICENSE.txt": "/aarogyacard/static/js/2.c36cb36d.chunk.js.LICENSE.txt",
+    "static/media/flaticon.css": "/aarogyacard/static/media/flaticon.cb56bae7.eot",
+    "static/media/Login.css": "/aarogyacard/static/media/health-background.20128b58.jpg",
+    "static/media/healthcard.5f702fee.png": "/aarogyacard/static/media/healthcard.5f702fee.png",
+    "static/media/user-img.e2584754.jpg": "/aarogyacard/static/media/user-img.e2584754.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd05b6e.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c36cb36d.chunk.js",
+    "static/css/main.93624daa.chunk.css",
+    "static/js/main.91964ffc.chunk.js"
+  ]
+}
